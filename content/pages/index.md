@@ -5,7 +5,7 @@ colors: colors-e
 backgroundImage:
   type: BackgroundImage
   backgroundSize: cover
-  backgroundPosition: center
+  backgroundPosition: bottom
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
